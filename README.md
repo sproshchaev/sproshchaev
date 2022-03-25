@@ -1,6 +1,6 @@
-![Header](https://github.com/sproshchaev/sproshchaev/blob/main/assets/header.png)(https://www.facebook.com/Sergey.Proshchaev)
+[![Header](https://github.com/sproshchaev/sproshchaev/blob/main/assets/header.png)](https://www.facebook.com/Sergey.Proshchaev)
 
-<!-- ### About me -->
+### Java-developer | TeamLead | Project manager
 
 <!-- Latest YouTube Videos -->
 
