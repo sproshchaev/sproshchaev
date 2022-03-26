@@ -7,7 +7,7 @@
 ### Language and Tools
 
 [![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](https://java.com/)
-![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)
+[![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)
 ![Delphi](https://img.shields.io/badge/Delphi-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)
 ![FoxPro](https://img.shields.io/badge/FoxPro-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)
@@ -20,4 +20,5 @@
 
 
 
-<!-- Follow Me -->
+### Follow Me
+[![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
