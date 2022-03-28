@@ -5,7 +5,6 @@
 <!-- Latest YouTube Videos -->
 
 ### Language and Tools
-
 [![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](https://java.com/)
 [![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)
@@ -19,8 +18,10 @@
 
 
 
-
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
 [![YouTube](https://img.shields.io/badge/YouTube-E33122??style=for-the-badge&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC8F-iMYZ2SfaWzt0mZCMg8w)
 [![Вконтакте](https://img.shields.io/badge/вконтакте-3375F6??style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/sproshchaev)
+
+
+
