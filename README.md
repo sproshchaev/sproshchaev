@@ -24,4 +24,4 @@
 [![Вконтакте](https://img.shields.io/badge/вконтакте-3375F6??style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/sproshchaev)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sproshchaev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sproshchaev&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
