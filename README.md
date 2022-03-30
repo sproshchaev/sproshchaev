@@ -5,7 +5,7 @@
 <!-- Latest YouTube Videos -->
 
 ### Language and Stack
-[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](<a href="https://java.com/en/" target="_blank"/a>)
+[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](<a href=https://java.com/en/ target="_blank"/a>)
 [![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/)
 [![Apache](https://img.shields.io/badge/Apache-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://apache.org/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/previous-versions/msdn10/bb190538(v=msdn.10))
