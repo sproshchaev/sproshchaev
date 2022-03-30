@@ -5,8 +5,8 @@
 <!-- Latest YouTube Videos -->
 
 ### Language and Stack
-[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](<a href="https://java.com/" target="_blank">)
-[![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](<a href="https://spring.io/" target="_blank">)
+[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](<a href=https://java.com/ target="_blank">)
+[![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](<a href=https://spring.io/ target="_blank">)
 [![Apache](https://img.shields.io/badge/Apache-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://apache.org/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/previous-versions/msdn10/bb190538(v=msdn.10))
 [![Delphi](https://img.shields.io/badge/Delphi-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.embarcadero.com/en/products/delphi)
