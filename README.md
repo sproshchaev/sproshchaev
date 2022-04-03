@@ -18,6 +18,7 @@
 ### Frameworks, Libraries and Tools
 [![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
+[![JSP](https://img.shields.io/badge/JSP-FFFFFF??style=for-the-badge&logo=Eclipse&logoColor=2A2252)](https://projects.eclipse.org/projects/ee4j.jsp)
 [![Apache](https://img.shields.io/badge/Apache-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-0E2B62??style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-FFFFFF??style=for-the-badge&logo=Liquibase&logoColor=3861F6)](https://www.liquibase.com/)
