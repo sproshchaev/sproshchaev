@@ -7,6 +7,7 @@
 ### Language
 [![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=java&logoColor=FFFFFF)](https://java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-FFFFFF??style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-393632??style=for-the-badge&logo=JavaScript&logoColor=F3E050)](https://developer.mozilla.org/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/previous-versions/msdn10/bb190538(v=msdn.10))
 [![Delphi](https://img.shields.io/badge/Delphi-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.embarcadero.com/en/products/delphi)
 [![FoxPro](https://img.shields.io/badge/FoxPro-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/foxpro/mt490117(v=msdn.10)?redirectedfrom=MSDN)
