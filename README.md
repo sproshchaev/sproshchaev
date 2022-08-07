@@ -16,6 +16,7 @@
 [![Oracle](https://img.shields.io/badge/Oracle-393632??style=for-the-badge&logo=Oracle&logoColor=E43222)](https://www.oracle.com/)
 [![MS SQL](https://img.shields.io/badge/SQL_Server-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://www.microsoft.com/en-us/sql-server)
 [![InterBase](https://img.shields.io/badge/InterBase-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://interbase.com/)
+[![H2](https://img.shields.io/badge/H2-0618D5??style=for-the-badge&logo=H2&logoColor=FFFFFF)](https://interbase.com/)
 ### Frameworks, Libraries and Tools
 [![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
