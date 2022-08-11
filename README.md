@@ -11,6 +11,7 @@
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/previous-versions/msdn10/bb190538(v=msdn.10))
 [![Delphi](https://img.shields.io/badge/Delphi-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.embarcadero.com/en/products/delphi)
 [![FoxPro](https://img.shields.io/badge/FoxPro-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/previous-versions/visualstudio/foxpro/mt490117(v=msdn.10)?redirectedfrom=MSDN)
+[![HTML](https://img.shields.io/badge/HTML-E46035??style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://html.spec.whatwg.org/multipage/)
 ### DBMS
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3E6389??style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-393632??style=for-the-badge&logo=Oracle&logoColor=E43222)](https://www.oracle.com/)
