@@ -33,6 +33,6 @@
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
 [![YouTube](https://img.shields.io/badge/YouTube-E33122??style=for-the-badge&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC8F-iMYZ2SfaWzt0mZCMg8w)
 [![Вконтакте](https://img.shields.io/badge/вконтакте-3375F6??style=for-the-badge&logo=vk&logoColor=FFFFFF)](https://vk.com/sproshchaev)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D64BC??style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sproshchaev/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sproshchaev&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
