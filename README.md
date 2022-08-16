@@ -21,6 +21,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF??style=for-the-badge&logo=MongoDB&logoColor=#4CA257)](https://www.mongodb.com/)
 ### Frameworks, Libraries and Tools
 [![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/)
+[![Spring Shell](https://img.shields.io/badge/Spring_Shell-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-shell)
 [![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
 [![JSP](https://img.shields.io/badge/JSP-FFFFFF??style=for-the-badge&logo=Eclipse&logoColor=2A2252)](https://projects.eclipse.org/projects/ee4j.jsp)
 [![Apache](https://img.shields.io/badge/Apache-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://apache.org/)
