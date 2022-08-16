@@ -14,6 +14,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E46035??style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://github.com/sproshchaev/javascript-jquery)
 ### DBMS
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3E6389??style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-FFFFFF??style=for-the-badge&logo=SQLite&logoColor=3B84C3)](https://www.sqlite.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-393632??style=for-the-badge&logo=Oracle&logoColor=E43222)](https://www.oracle.com/)
 [![MS SQL](https://img.shields.io/badge/SQL_Server-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://www.microsoft.com/en-us/sql-server)
 [![InterBase](https://img.shields.io/badge/InterBase-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://interbase.com/)
