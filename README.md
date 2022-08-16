@@ -21,7 +21,7 @@
 [![H2](https://img.shields.io/badge/H2-0618D5??style=for-the-badge&logo=H2&logoColor=FFFFFF)](https://www.h2database.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF??style=for-the-badge&logo=MongoDB&logoColor=#4CA257)](https://www.mongodb.com/)
 ### Frameworks, Libraries and Tools
-[![Spring](https://img.shields.io/badge/Spring-FFFFFF??style=for-the-badge&logo=Spring)](https://github.com/sproshchaev/2022-05-otus-spring-sproshchaev)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-boot/)
 [![Spring Shell](https://img.shields.io/badge/Spring_Shell-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-shell/)
 [![Spring Data JDBC](https://img.shields.io/badge/Spring_Data_JDBC-FFFFFF??style=for-the-badge&logo=Spring)](https://github.com/sproshchaev/2022-05-otus-spring-sproshchaev/tree/main/spring-05-books/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
