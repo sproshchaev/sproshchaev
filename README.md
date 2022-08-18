@@ -35,6 +35,7 @@
 [![Swing](https://img.shields.io/badge/Swing-E43222??style=for-the-badge&logo=java&logoColor=E43222)](https://www.liquibase.com/)
 [![Mongock](https://img.shields.io/badge/Mongock-FFFFFF??style=for-the-badge&logo=Mongock&logoColor=4CA257)](https://https://mongock.io/)
 [![jQuery](https://img.shields.io/badge/jQuery-FFFFFF??style=for-the-badge&logo=jQuery&logoColor=2E64A4)](https://github.com/sproshchaev/javascript-jquery/)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-FFFFFF??style=for-the-badge&logo=Thymeleaf&logoColor=025B10)](https://www.thymeleaf.org/)
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
 [![YouTube](https://img.shields.io/badge/YouTube-E33122??style=for-the-badge&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC8F-iMYZ2SfaWzt0mZCMg8w)
