@@ -21,22 +21,24 @@
 [![InterBase](https://img.shields.io/badge/InterBase-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://interbase.com/)
 [![H2](https://img.shields.io/badge/H2-0618D5??style=for-the-badge&logo=H2&logoColor=FFFFFF)](https://www.h2database.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF??style=for-the-badge&logo=MongoDB&logoColor=#4CA257)](https://www.mongodb.com/)
-### Frameworks, Libraries and Tools
+### Spring Framework
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-boot/)
 [![Spring Shell](https://img.shields.io/badge/Spring_Shell-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-shell/)
 [![Spring Data JDBC](https://img.shields.io/badge/Spring_Data_JDBC-FFFFFF??style=for-the-badge&logo=Spring)](https://github.com/sproshchaev/2022-05-otus-spring-sproshchaev/tree/main/spring-05-books/)
-[![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
 [![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-data-jpa)
 [![Spring Data MongoDB](https://img.shields.io/badge/Spring_Data_MongoDB-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-data-mongodb/)
+
+### Frameworks, Libraries and Tools
+[![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
+[![Swing](https://img.shields.io/badge/Swing-E43222??style=for-the-badge&logo=java&logoColor=E43222)](https://www.liquibase.com/)
 [![JSP](https://img.shields.io/badge/JSP-FFFFFF??style=for-the-badge&logo=Eclipse&logoColor=2A2252)](https://projects.eclipse.org/projects/ee4j.jsp)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-FFFFFF??style=for-the-badge&logo=Thymeleaf&logoColor=025B10)](https://www.thymeleaf.org/)
 [![Apache](https://img.shields.io/badge/Apache-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-0E2B62??style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-FFFFFF??style=for-the-badge&logo=Liquibase&logoColor=3861F6)](https://www.liquibase.com/)
 [![Flyway](https://img.shields.io/badge/Flyway-FFFFFF??style=for-the-badge&logo=Flyway&logoColor=CC0100)](https://flywaydb.org/)
-[![Swing](https://img.shields.io/badge/Swing-E43222??style=for-the-badge&logo=java&logoColor=E43222)](https://www.liquibase.com/)
 [![Mongock](https://img.shields.io/badge/Mongock-FFFFFF??style=for-the-badge&logo=Mongock&logoColor=4CA257)](https://https://mongock.io/)
 [![jQuery](https://img.shields.io/badge/jQuery-FFFFFF??style=for-the-badge&logo=jQuery&logoColor=2E64A4)](https://github.com/sproshchaev/javascript-jquery/)
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-FFFFFF??style=for-the-badge&logo=Thymeleaf&logoColor=025B10)](https://www.thymeleaf.org/)
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
 [![YouTube](https://img.shields.io/badge/YouTube-E33122??style=for-the-badge&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UC8F-iMYZ2SfaWzt0mZCMg8w)
