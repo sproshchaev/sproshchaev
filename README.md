@@ -28,6 +28,7 @@
 [![Spring Data JDBC](https://img.shields.io/badge/Spring_Data_JDBC-FFFFFF??style=for-the-badge&logo=Spring)](https://github.com/sproshchaev/2022-05-otus-spring-sproshchaev/tree/main/spring-05-books/)
 [![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-data-jpa)
 [![Spring Data MongoDB](https://img.shields.io/badge/Spring_Data_MongoDB-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-data-mongodb/)
+[![Spring Web](https://img.shields.io/badge/Spring_Web-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/guides/gs/serving-web-content/)
 
 ### Frameworks, Libraries and Tools
 [![Hibernate](https://img.shields.io/badge/Hibernate-5B666B??style=for-the-badge&logo=Hibernate)](http://hibernate.org/)
