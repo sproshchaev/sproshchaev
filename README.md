@@ -14,7 +14,7 @@
 [![HTML](https://img.shields.io/badge/HTML-E46035??style=for-the-badge&logo=HTML5&logoColor=FFFFFF)](https://github.com/sproshchaev/javascript-jquery/)
 [![CSS3](https://img.shields.io/badge/CSS-274DE4??style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://github.com/sproshchaev/javascript-jquery/)
 [![YAML](https://img.shields.io/badge/YAML-C4181D??style=for-the-badge&logo=YAML&logoColor=FFFFFF)](https://yaml.org/)
-[![SpEL](https://img.shields.io/badge/SpEL-FFFFFF??style=for-the-badge&logo=Spring)](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/expressions.html/)
+[![SpEL](https://img.shields.io/badge/SpEL-FFFFFF??style=for-the-badge&logo=Spring)](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/expressions.html)
 ### DBMS
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3E6389??style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-FFFFFF??style=for-the-badge&logo=SQLite&logoColor=3B84C3)](https://www.sqlite.org/)
