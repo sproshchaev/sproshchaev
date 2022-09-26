@@ -36,6 +36,7 @@
 [![Spring Web](https://img.shields.io/badge/Spring_Web-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/guides/gs/serving-web-content/)
 [![Spring Reactive Web](https://img.shields.io/badge/Spring_Reactive_Web-FFFFFF??style=for-the-badge&logo=Spring)](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html/)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-security/)
+[![Spring Batch](https://img.shields.io/badge/Spring_Batch-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-batch/)
 
 
 
