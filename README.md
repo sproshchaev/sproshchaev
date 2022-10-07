@@ -39,6 +39,7 @@
 [![Spring Batch](https://img.shields.io/badge/Spring_Batch-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-batch/)
 [![Spring Integration](https://img.shields.io/badge/Spring_Integration-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-integration/)
 [![Spring Boot Actuator](https://img.shields.io/badge/Spring_Boot_Actuator-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/guides/gs/actuator-service/)
+[![Spring Data REST](https://img.shields.io/badge/Spring_Data_REST-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-data-rest)
 
 
 
