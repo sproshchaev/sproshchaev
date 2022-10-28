@@ -44,6 +44,7 @@
 [![Spring Cloud Config](https://img.shields.io/badge/Spring_Cloud_Config-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-config/)
 [![Spring Cloud Netflix](https://img.shields.io/badge/Spring_Cloud_Netflix-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-netflix/)
 [![Spring Cloud OpenFeign](https://img.shields.io/badge/Spring_Cloud_OpenFeign-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-openfeign)
+[![Spring Cloud Discovery](https://img.shields.io/badge/Spring_Cloud_Discovery-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/guides/gs/service-registration-and-discovery/)
 
 
 
