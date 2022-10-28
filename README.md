@@ -55,7 +55,7 @@
 [![Swing](https://img.shields.io/badge/Swing-E43222??style=for-the-badge&logo=java&logoColor=E43222)](https://www.liquibase.com/)
 [![JSP](https://img.shields.io/badge/JSP-FFFFFF??style=for-the-badge&logo=Eclipse&logoColor=2A2252)](https://projects.eclipse.org/projects/ee4j.jsp)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-FFFFFF??style=for-the-badge&logo=Thymeleaf&logoColor=025B10)](https://www.thymeleaf.org/)
-[![Apache](https://img.shields.io/badge/Apache-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://apache.org/)
+[![Apache Maven](https://img.shields.io/badge/Apache_Maven-F7F7F7??style=for-the-badge&logo=Apache&logoColor=C85D38)](https://maven.apache.org/)
 [![Docker](https://img.shields.io/badge/Docker-0E2B62??style=for-the-badge&logo=Docker&logoColor=FFFFFF)](https://www.docker.com/)
 [![Jib](https://img.shields.io/badge/Jib-FFFFFF??style=for-the-badge&logo=Jib&logoColor=FFFFFF)](https://github.com/GoogleContainerTools/jib/)
 [![Liquibase](https://img.shields.io/badge/Liquibase-FFFFFF??style=for-the-badge&logo=Liquibase&logoColor=3861F6)](https://www.liquibase.com/)
