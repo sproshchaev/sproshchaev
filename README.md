@@ -27,6 +27,8 @@
 [![SQLite](https://img.shields.io/badge/SQLite-FFFFFF??style=for-the-badge&logo=SQLite&logoColor=3B84C3)](https://www.sqlite.org/)
 [![H2](https://img.shields.io/badge/H2-0618D5??style=for-the-badge&logo=H2&logoColor=FFFFFF)](https://www.h2database.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF??style=for-the-badge&logo=MongoDB&logoColor=#4CA257)](https://www.mongodb.com/)
+### Message broker
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF??style=for-the-badge&logo=rabbitmq)](https://www.rabbitmq.com/)
 ### Spring Framework
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-boot/)
 [![Spring Shell](https://img.shields.io/badge/Spring_Shell-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-shell/)
