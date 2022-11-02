@@ -65,7 +65,7 @@
 [![jQuery](https://img.shields.io/badge/jQuery-FFFFFF??style=for-the-badge&logo=jQuery&logoColor=2E64A4)](https://github.com/sproshchaev/javascript-jquery/)
 [![Lombok](https://img.shields.io/badge/Lombok-FFFFFF??style=for-the-badge&logo=lombok&logoColor=2E64A4)](https://projectlombok.org/)
 [![jOOQ](https://img.shields.io/badge/jOOQ-FFFFFF??style=for-the-badge&logo=jOOQ&logoColor=2E64A4)](https://www.jooq.org/)
-
+[![Jasypt](https://img.shields.io/badge/Jasypt-FFFFFF??style=for-the-badge&logo=Jasypt&logoColor=2E64A4)](http://www.jasypt.org/)
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
