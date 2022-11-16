@@ -67,6 +67,8 @@
 [![jOOQ](https://img.shields.io/badge/jOOQ-FFFFFF??style=for-the-badge&logo=jOOQ&logoColor=2E64A4)](https://www.jooq.org/)
 [![Jasypt](https://img.shields.io/badge/Jasypt-FFFFFF??style=for-the-badge&logo=Jasypt&logoColor=2E64A4)](http://www.jasypt.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-FFFFFF??style=for-the-badge&logo=gRPC&logoColor=2E64A4)](https://grpc.io/)
+[![Resilience4j](https://img.shields.io/badge/Resilience4j-FFFFFF??style=for-the-badge&logo=Resilience4j&logoColor=2E64A4)](https://resilience4j.readme.io/)
+
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
