@@ -5,7 +5,7 @@
 <!-- Latest YouTube Videos -->
 
 ### Languages and formats
-[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=Java&logoColor=FFFFFF)](https://java.com/)
+[![Java](https://img.shields.io/badge/Java-E43222??style=for-the-badge&logo=Java&logoColor=FFFFFF)](https://github.com/sproshchaev/java-top-basic/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-FFFFFF??style=for-the-badge&logo=Kotlin)](https://kotlinlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-000000??style=for-the-badge&logo=JavaScript&logoColor=F3E050)](https://github.com/sproshchaev/javascript-jquery/)
 [![Visual Basic](https://img.shields.io/badge/Visual_Basic-2B65B2??style=for-the-badge&logo=Microsoft&logoColor=FFFFFF)](https://github.com/sproshchaev/db-result/)
