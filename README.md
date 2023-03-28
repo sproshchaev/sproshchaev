@@ -70,6 +70,8 @@
 [![Resilience4j](https://img.shields.io/badge/Resilience4j-FFFFFF??style=for-the-badge&logo=Resilience4j&logoColor=2E64A4)](https://resilience4j.readme.io/)
 [![Camunda](https://img.shields.io/badge/Camunda-FFFFFF??style=for-the-badge&logo=Camundaj&logoColor=2E64A4)](https://camunda.com/)
 
+### Tasks
+https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
