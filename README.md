@@ -1,7 +1,5 @@
 [![Header](https://github.com/sproshchaev/sproshchaev/blob/main/assets/header.png)](https://www.facebook.com/Sergey.Proshchaev)
 
-### Java-developer | TeamLead | Project manager
-
 <!-- Latest YouTube Videos -->
 
 ### Languages and formats
@@ -71,7 +69,8 @@
 [![Camunda](https://img.shields.io/badge/Camunda-FFFFFF??style=for-the-badge&logo=Camundaj&logoColor=2E64A4)](https://camunda.com/)
 
 ### Codewars
-![](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
+[![Codewars](https://img.shields.io/badge/Codewars-000000??style=for-the-badge&logo=Codewars&logoColor=B1361E)](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
+(https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
