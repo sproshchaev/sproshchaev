@@ -70,7 +70,7 @@
 
 ### Codewars
 [![Codewars](https://img.shields.io/badge/Codewars-000000??style=for-the-badge&logo=Codewars&logoColor=B1361E)](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
-(https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
+![](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
 
 ### Follow Me
 [![Facebook](https://img.shields.io/badge/facebook-3F558E??style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/Sergey.Proshchaev)
