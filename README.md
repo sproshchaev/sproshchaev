@@ -69,7 +69,7 @@
 [![Camunda](https://img.shields.io/badge/Camunda-FFFFFF??style=for-the-badge&logo=Camundaj&logoColor=2E64A4)](https://camunda.com/)
 
 ### Codewars
-[![Codewars](https://img.shields.io/badge/Codewars-000000??style=for-the-badge&logo=Codewars&logoColor=B1361E)](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
+[![Codewars](https://img.shields.io/badge/Codewars-000000??style=for-the-badge&logo=Codewars&logoColor=B1361E)](https://github.com/sproshchaev/codewars)
 ![](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
 
 ### Follow Me
