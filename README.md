@@ -26,7 +26,7 @@
 [![H2](https://img.shields.io/badge/H2-0618D5??style=for-the-badge&logo=H2&logoColor=FFFFFF)](https://www.h2database.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF??style=for-the-badge&logo=MongoDB&logoColor=#4CA257)](https://www.mongodb.com/)
 ### Message broker
-[![Apache Kafka](https://img.shields.io/badge/ApacheKafka-FFFFFF??style=for-the-badge&logo=kafka)](https://www.rabbitmq.com/)
+[![Kafka](https://img.shields.io/badge/Kafka-FFFFFF??style=for-the-badge&logo=kafka)](https://www.rabbitmq.com/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FFFFFF??style=for-the-badge&logo=rabbitmq)](https://www.rabbitmq.com/)
 ### Spring Framework
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-boot/)
