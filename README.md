@@ -1,4 +1,4 @@
-[![Header](https://github.com/sproshchaev/sproshchaev/blob/main/assets/header.jpeg)](https://www.linkedin.com/in/sproshchaev/)
+[![Header](https://github.com/sproshchaev/sproshchaev/blob/main/assets/header_java.png)](https://www.linkedin.com/in/sproshchaev/)
 
 <!-- Latest YouTube Videos -->
 
