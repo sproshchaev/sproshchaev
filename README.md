@@ -24,6 +24,7 @@
 [![InterBase](https://img.shields.io/badge/InterBase-C93838??style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://interbase.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-FFFFFF??style=for-the-badge&logo=SQLite&logoColor=3B84C3)](https://www.sqlite.org/)
 [![H2](https://img.shields.io/badge/H2-0618D5??style=for-the-badge&logo=H2&logoColor=FFFFFF)](https://www.h2database.com/)
+[![HSQLDB](https://img.shields.io/badge/HSQLDB-5098C9??style=for-the-badge&logo=HSQLDB&logoColor=FFFFFF)](https://hsqldb.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF??style=for-the-badge&logo=MongoDB&logoColor=#4CA257)](https://www.mongodb.com/)
 ### Message broker
 [![Kafka](https://img.shields.io/badge/Kafka-000000??style=for-the-badge&logo=apachekafka)](https://kafka.apache.org/)
