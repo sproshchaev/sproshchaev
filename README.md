@@ -47,7 +47,6 @@
 [![Spring Cloud Netflix](https://img.shields.io/badge/Spring_Cloud_Netflix-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-netflix/)
 [![Spring Cloud OpenFeign](https://img.shields.io/badge/Spring_Cloud_OpenFeign-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-openfeign)
 [![Spring Cloud Discovery](https://img.shields.io/badge/Spring_Cloud_Discovery-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/guides/gs/service-registration-and-discovery/)
-[![Spring Cloud Contract](https://img.shields.io/badge/Spring_Cloud_Contract-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-contract/)
 
 
 
@@ -73,7 +72,8 @@
 
 ### Testing Frameworks and Libraries
 [![JUnit 5](https://img.shields.io/badge/JUnit-FFFFFF??style=for-the-badge&logo=JUnit5&logoColor=3B84C3)](https://junit.org/junit5/)
-
+[![Selenium](https://img.shields.io/badge/Selenium-FFFFFF??style=for-the-badge&logo=Selenium&logoColor=00cc00)](https://www.selenium.dev/)
+[![Spring Cloud Contract](https://img.shields.io/badge/Spring_Cloud_Contract-FFFFFF??style=for-the-badge&logo=Spring)](https://spring.io/projects/spring-cloud-contract/)
 
 ### Codewars
 [![Codewars](https://img.shields.io/badge/Codewars-000000??style=for-the-badge&logo=Codewars&logoColor=B1361E)](https://github.com/sproshchaev/codewars)
