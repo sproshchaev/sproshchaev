@@ -71,6 +71,10 @@
 [![Resilience4j](https://img.shields.io/badge/Resilience4j-FFFFFF??style=for-the-badge&logo=Resilience4j&logoColor=2E64A4)](https://resilience4j.readme.io/)
 [![Camunda](https://img.shields.io/badge/Camunda-FFFFFF??style=for-the-badge&logo=Camundaj&logoColor=2E64A4)](https://camunda.com/)
 
+### Testing Frameworks and Libraries
+[![JUnit 5](https://img.shields.io/badge/JUnit-FFFFFF??style=for-the-badge&logo=JUnit5&logoColor=3B84C3)](https://junit.org/junit5/)
+
+
 ### Codewars
 [![Codewars](https://img.shields.io/badge/Codewars-000000??style=for-the-badge&logo=Codewars&logoColor=B1361E)](https://github.com/sproshchaev/codewars)
 ![](https://www.codewars.com/users/rsschool_d853c37e868b147d/badges/micro)
