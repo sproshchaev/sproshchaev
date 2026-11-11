@@ -1,5 +1,7 @@
 [![Header](assets/header_java.png)](https://www.linkedin.com/in/sproshchaev/)
 
+[![Live JVM Monitor](https://img.shields.io/badge/Live_JVM_Monitor-Get_from_Marketplace-000000?style=for-the-badge&logo=jetbrains&logoColor=FFFFFF)](https://plugins.jetbrains.com/plugin/35903-live-jvm-monitor)
+
 ### Languages and formats
 [![Java](https://img.shields.io/badge/Java-E43222?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF)](https://github.com/sproshchaev/kotlin-base-camp)
